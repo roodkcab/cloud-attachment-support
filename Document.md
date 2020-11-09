@@ -7,7 +7,7 @@ after create a account with token and secret, do not forget to give read and wri
 permission of your oss bucket to this account.
 
 finally, fill all of information requested by cloud-attachment like this below.
-![dashboard](https://github.com/roodkcab/cloud-attachment-support/)
+![dashboard](https://raw.githubusercontent.com/roodkcab/cloud-attachment-support/master/images/dashboard.png)
 
 ### S3
 you can easily generate aws access key and access token with aws RAM system.
