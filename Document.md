@@ -18,5 +18,15 @@ permission of your s3 bucket to this account.
 <img src="https://raw.githubusercontent.com/roodkcab/cloud-attachment-support/master/images/s3.png" width="800">
 
 ## Upload
+once you finish up configuration, you can test it with simply click upload button in cloud-attach panel.
+
+<img src="https://raw.githubusercontent.com/roodkcab/cloud-attachment-support/master/images/uploader.png" width="400">
+
+the file should be uploaded to OSS or S3 bucket based on your configuration, and you should see something in your storage
+dashboard like below.
+
+<img src="https://raw.githubusercontent.com/roodkcab/cloud-attachment-support/master/images/s3_uploader.png" width="400">
+
+
 
 ## Download
