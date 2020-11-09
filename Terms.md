@@ -8,6 +8,9 @@ These Terms will be applied fully and affect to your use of this Plugin. By usin
 ### Limitation of liability
 In no event shall Cloud Attachment, nor any of its officers, directors and employees, shall be held liable for anything arising out of or in any way connected with your use of this Plugin whether such liability is under contract.  Cloud Attachment, including its officers, directors and employees shall not be held liable for any indirect, consequential or special liability arising out of or in any way related to your use of this Plugin.
 
+### Data Lost
+If any data uploaded by this plugin is happend to lost, Cloud Attachment should try it best to find it back, and if it's our fault, we should compensate our customer with a full refund.
+
 ### Indemnification
 You hereby indemnify to the fullest extent Cloud Attachment from and against any and/or all liabilities, costs, demands, causes of action, damages and expenses arising in any way related to your breach of any of the provisions of these Terms.
 
