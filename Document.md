@@ -8,10 +8,12 @@ permission of your oss bucket to this account.
 
 finally, fill all of information requested by cloud-attachment like this below.
 
-<img src="https://raw.githubusercontent.com/roodkcab/cloud-attachment-support/master/images/dashboard.png" width="800">
+<img src="https://raw.githubusercontent.com/roodkcab/cloud-attachment-support/master/images/oss.png" width="800">
 
 ### S3
 you can easily generate aws access key and access token with aws RAM system.
+
+<img src="https://raw.githubusercontent.com/roodkcab/cloud-attachment-support/master/images/s3.png" width="800">
 
 ## Upload
 
